@@ -213,6 +213,6 @@ of this software and associated documentation files (the "Software"), to deal
 ## Contact
 
 **Mohamed**  
-✉️ mohamed@example.com  
+ 
 📁 [GitHub Repository](https://github.com/your-username/social-media-sentiment-analysis)
 ```
