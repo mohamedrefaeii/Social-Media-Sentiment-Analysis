@@ -1,4 +1,4 @@
-```markdown
+
 # Social Media Sentiment Analysis
 
 This project processes and analyzes over 10,000 tweets using Natural Language Processing (NLP) techniques with NLTK and Scikit-learn to perform sentiment analysis, achieving an accuracy of 85%. The insights are presented through clear visualizations, highlighting sentiment trends and customer feedback.
